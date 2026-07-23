@@ -144,8 +144,7 @@ http://localhost/dummy.mp4
 # =========================
 
 #EXTINF:-1 tvg-id="A Shop For Killers2.S02E01" tvg-name="A Shop For Killers2 S02E01" tvg-logo="https://goseries4k.com/wp-content/uploads/2026/07/2-1.jpg" group-title="📺 A Shop For Killers2",S02E01 - Jinman, That Same Day
-#EXTVLCOPT:http-referrer=https://torbo007.com
-https://torbo007.com/api/stream/dc9df6854ac7b82f693527105f2a2282/index.m3u8
+https://main.24playerhd.com/newplaylist/5ba09631c6f8ad9294756a2e/5ba09631c6f8ad9294756a2e.m3u8
 
 #EXTINF:-1 tvg-id="A Shop For Killers2.S02E02" tvg-name="A Shop For Killers2 S02E02" tvg-logo="https://goseries4k.com/wp-content/uploads/2026/07/2-1.jpg" group-title="📺 A Shop For Killers2",S02E02 - Recluse
 #EXTVLCOPT:http-referrer=https://torbo007.com
