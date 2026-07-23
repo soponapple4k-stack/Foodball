@@ -134,17 +134,3 @@ https://player5.fastfastcdn.com/ttmaster_942a916d7085164fd0720.m3u8
 
 #EXTINF:-1 group-title="🇹🇭 หนัง 2025",[ช่องหลอกสำหรับปิดท้าย]
 http://localhost/dummy.mp4
-
-
-
-#EXTM3U
-
-# =========================
-# A Shop For Killers2
-# =========================
-
-#EXTINF:-1 tvg-id="A Shop For Killers2.S02E01" tvg-name="A Shop For Killers2 S02E01" tvg-logo="https://goseries4k.com/wp-content/uploads/2026/07/2-1.jpg" group-title="📺 A Shop For Killers2",S02E01 - Jinman, That Same Day
-https://main.24playerhd.com/newplaylist/5ba09631c6f8ad9294756a2e/5ba09631c6f8ad9294756a2e.m3u8
-
-#EXTINF:-1 tvg-id="A Shop For Killers2.S02E02" tvg-name="A Shop For Killers2 S02E02" tvg-logo="https://goseries4k.com/wp-content/uploads/2026/07/2-1.jpg" group-title="📺 A Shop For Killers2",S02E02 - Recluse
-https://main.24playerhd.com/newplaylist/bc1459bd8e518c0abc553749/bc1459bd8e518c0abc553749.m3u8
