@@ -134,3 +134,17 @@ https://player5.fastfastcdn.com/ttmaster_942a916d7085164fd0720.m3u8
 
 #EXTINF:-1 group-title="🇹🇭 หนัง 2025",[ช่องหลอกสำหรับปิดท้าย]
 http://localhost/dummy.mp4
+
+
+
+#EXTM3U
+
+# =========================
+# Wednesday
+# =========================
+
+#EXTINF:-1 tvg-id="A Shop For Killers2.S02E01" tvg-name="A Shop For Killers2 S02E01" tvg-logo="https://goseries4k.com/wp-content/uploads/2026/07/2-1.jpg" group-title="📺 A Shop For Killers2",S02E01 - Jinman, That Same Day
+https://torbo007.com/api/stream/dc9df6854ac7b82f693527105f2a2282/index.m3u8
+
+#EXTINF:-1 tvg-id="A Shop For Killers2.S02E02" tvg-name="A Shop For Killers2 S02E02" tvg-logo="https://goseries4k.com/wp-content/uploads/2026/07/2-1.jpg" group-title="📺 A Shop For Killers2",S02E02 - Jinman, That Same Day
+https://torbo007.com/api/stream/975969ee9cdcc6afd290aadcda9793bd/index.m3u8
